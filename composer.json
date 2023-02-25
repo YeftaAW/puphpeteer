@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "ext-json": "*",
-        "nesk/rialto": "dev-master",
+        "nesk/rialto": "dev-main",
         "psr/log": "^1.0 || ^2.0 || ^3.0",
         "vierbergenlars/php-semver": "^3.0.2"
     },
@@ -52,7 +52,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/YeftaAW/rialto"
+            "url": "git@github.com:YeftaAW/rialto.git"
         }
     ]
 }
