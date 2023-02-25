@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "ext-json": "*",
-        "nesk/rialto": "dev-main",
+        "yeftaaw/rialto": "dev-main",
         "psr/log": "^1.0 || ^2.0 || ^3.0",
         "vierbergenlars/php-semver": "^3.0.2"
     },
